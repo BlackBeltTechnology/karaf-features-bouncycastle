@@ -5,7 +5,7 @@
     <parent>
         <groupId>hu.blackbelt.karaf.features</groupId>
         <artifactId>bouncycastle</artifactId>
-        <version>1.61_1-SNAPSHOT</version>
+        <version>1.61_1</version>
         <relativePath>../</relativePath>
     </parent>
     <artifactId>bouncycastle-kar</artifactId>
