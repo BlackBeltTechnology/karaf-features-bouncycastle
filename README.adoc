@@ -1,4 +1,4 @@
-# Karaf fearture BouncyCastle
+# Karaf feature BouncyCastle
 
 image::https://github.com/BlackBeltTechnology/karaf-features-bouncycastle/actions/workflows/build.yml/badge.svg?branch=develop[link="https://github.com/BlackBeltTechnology/karaf-features-bouncycastle/actions/workflows/build.yml" float="center"]
 
@@ -9,6 +9,7 @@ Externsion to karaf which adds BouncyCastle bundles to karaf features.
 ## Features:
 
 - bouncycastle 1.69
+- bouncycastle 1.70
 
 == Contributing to the project
 
