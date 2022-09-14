@@ -114,6 +114,8 @@
                                     </framework>
                                     <features>
                                         <feature>bouncycastle</feature>
+                                        <feature>bouncycastle-1.69</feature>
+                                        <feature>bouncycastle-1.70</feature>
                                     </features>
                                 </configuration>
                             </execution>
