@@ -10,8 +10,8 @@
     <packaging>pom</packaging>
 
     <properties>
-        <revision>1.69.1-SNAPSHOT</revision>
-        <karaf-version>4.4.1</karaf-version>
+        <revision>2.0.0-SNAPSHOT</revision>
+        <karaf-version>4.3.7</karaf-version>
         <deployOnly>false</deployOnly>
         <maven>3.8.3</maven>
     </properties>
